@@ -60,3 +60,6 @@ test();
 * 会报 TypeError 的错误，因为最终返回的 `module.exports` 只是一个空对象
 
 
+
+### 参考资料
+[exports的用法：Node.js模块的接口设计模式 ](https://gywbd.github.io/posts/2014/11/using-exports-nodejs-interface-design-pattern.html)     
