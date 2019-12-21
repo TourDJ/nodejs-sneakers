@@ -1,5 +1,5 @@
 
-## node.js 项目结构的说明
+## node.js 项目结构目录
 
 随着 `nodejs` 技术生态圈的不断发展，nodejs 工程的目录结构现在变得越来越复杂，项目下面不断出现新的约定的文件夹(约定优先配置)及配置文件。简单总结一下，加深理解。
 
@@ -43,7 +43,7 @@ Travis CI是在线托管的CI服务，用Travis来进行持续集成。.travis.y
 ***
 
 * ### manifest.json
-为了实现 PWA 应用添加至桌面的功能，除了要求站点支持 HTTPS 之外，还需要准备 [manifest.json](https://lavas.baidu.com/doc/engage-retain-users/add-to-home-screen/introduction) 文件去配置应用的图标、名称等信息。举个例子，一个基本的 manifest.json 应包含如下信息：
+为了实现 PWA 应用添加至桌面的功能，除了要求站点支持 HTTPS 之外，还需要准备 [manifest.json](https://developer.mozilla.org/zh-CN/docs/Web/Manifest) 文件去配置应用的图标、名称等信息。举个例子，一个基本的 manifest.json 应包含如下信息：
 ```javascript
 {
   "short_name": "React App",
