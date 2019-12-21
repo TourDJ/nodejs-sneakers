@@ -7,6 +7,8 @@ Nodejs knowledge collection.
 - [CommonJS](./doc/CommonJS.md)     
 - [Node.js 错误](./doc/error.md)     
 - [node.js 项目结构目录](./doc/catalogure-compose.md)       
+- [exports 与 module.exports 的区别](./doc/exports-and-module-exports.md)      
+
 
 #### 参考资料
 [PHP vs node.js: The REAL statistics](https://prahladyeri.com/blog/2014/06/php-vs-node-js-real-statistics.html)  
